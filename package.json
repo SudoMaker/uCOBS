@@ -1,0 +1,25 @@
+{
+  "name": "ucobs",
+  "version": "1.0.0",
+  "description": "Fast and tiny COBS encoder and decoder",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SudoMaker/uCOBS.git"
+  },
+  "keywords": [
+    "cobs",
+    "encoder",
+    "decoder",
+    "serial",
+    "package"
+  ],
+  "author": "Yukino Song <yukino@sudomaker.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SudoMaker/uCOBS/issues"
+  },
+  "homepage": "https://github.com/SudoMaker/uCOBS#readme"
+}
